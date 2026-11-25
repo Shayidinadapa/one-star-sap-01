@@ -1,0 +1,1 @@
+{"description":"A houseplant's one-star review of its human owner, written to /output/entry.txt","engines":{"node":">=22"},"license":"MIT","name":"one-star-sap-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
